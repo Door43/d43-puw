@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[puw:home|Door43 (puw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-puw|d43-puw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-puw/archive/master.zip|d43-puw.zip]]
+
+**Recent Changes**
+{{changes>ns = puw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/puw|Ethnologue data]]
+
